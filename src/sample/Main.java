@@ -17,6 +17,7 @@ public class Main extends Application {
         primaryStage.show();
         System.out.println("hi");
         System.out.println("hi hi");
+        System.out.println("zibiiiil");
     }
 
 
